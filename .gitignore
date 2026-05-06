@@ -1,0 +1,11 @@
+# Files to ignore
+index.perfect.working.html
+images.zip
+index.working just quicker.html
+
+
+# Or ignore all PNG
+#*.png
+
+# Or ignore a whole folder
+#/private/
